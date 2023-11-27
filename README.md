@@ -1,4 +1,7 @@
-![tucano](https://github.com/tonelloalan/first-repo-coriander/blob/main/IMG_8827.JPG)
+<figure>
+    <img src="https://github.com/tonelloalan/first-repo-coriander/blob/main/IMG_8827.JPG"
+         alt="tucano" width=450 heigth=450>
+</figure>
 
 ### Hi there 👋
 
