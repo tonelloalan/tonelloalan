@@ -16,13 +16,24 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" width="600"/>
+</div>
 
 ### 👨‍💻 About Me :
+Greetings! 👋 I'm on a thrilling journey transitioning from project coordinator to a passionate web developer. 🚀 Combining my love for technology and design with proven organizational and problem-solving skills, I'm ready to dive into the dynamic world of web development.
 
-I am a Full Stack Web Development student.
+### 🌐 Tech Enthusiast & Learner
 
-- 🏠 Originally from Brazil and living in Germany
-- 🌱 I’m currently learning HTML, CSS and Javascript
+Currently, I am focused on mastering the fundamentals of web development, specifically HTML, CSS, and JavaScript. 🚧 The objective is to utilize my background in project management to construct user-friendly websites and contribute to the continually evolving digital landscape.
+
+### 🎬 Creative Background
+
+Beyond the code, my creative roots extend into film/video production, graphic design, and photography. 🎨 This diverse skill set allows me to approach projects comprehensively, considering both the technical and aesthetic facets of web development.
+
+Feel free to reach out and connect. Excited about the possibilities that lie ahead! 🚀
+
+Happy Coding! 🚁
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonelloalan)](https://git.io/streak-stats)
