@@ -11,7 +11,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=tonelloalan&style=flat-square&color=blue" alt=""/>
 
-### Hi there 👋
+<h1>
+Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 I am currently embarking on a journey to transition from project coordinator to web developer, combining my passion for technology and design with my proven organizational and problem-solving skills.
 
