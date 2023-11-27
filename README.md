@@ -9,7 +9,7 @@ In addition to my technical skills, I bring a background in film/video productio
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 📫 How to reach me: 
 1. Instagram: alntnll
-2. Mail: alanbt2@gmail.com
+2. Mail: alantb2@gmail.com
 - 😄 Pronouns: he/him
 
 <!--
