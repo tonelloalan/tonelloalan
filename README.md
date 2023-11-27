@@ -1,3 +1,5 @@
+![tucano](https://github.com/tonelloalan/first-repo-coriander/blob/main/IMG_8827.JPG)
+
 ### Hi there 👋
 
 My name is Alan Tonello and I am currently embarking on a journey to transition from project coordinator to web developer, combining my passion for technology and design with my proven organizational and problem-solving skills.
