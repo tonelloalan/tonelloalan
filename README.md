@@ -1,11 +1,14 @@
-<figure>
-    <img src="https://github.com/tonelloalan/first-repo-coriander/blob/main/IMG_8827.JPG"
-         alt="tucano" width=450 heigth=450>
-</figure>
+<html>
+<div id="badges">
+<a href="https://www.linkedin.com/in/tonelloalan/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+    <a href="https://www.instagram.com/alntnll/"><img src="https://img.shields.io/badge/Instagram-purple?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+
+</div>
+</html>
 
 ### Hi there 👋
 
-My name is Alan Tonello and I am currently embarking on a journey to transition from project coordinator to web developer, combining my passion for technology and design with my proven organizational and problem-solving skills.
+I am currently embarking on a journey to transition from project coordinator to web developer, combining my passion for technology and design with my proven organizational and problem-solving skills.
 
 Leveraging my experience in project management, I am actively learning web development fundamentals, including HTML, CSS, and JavaScript. Eager to apply my organizational and creative skills to build user-friendly websites and contribute to the ever-evolving digital landscape.
 
