@@ -1,17 +1,17 @@
 <div align="center">
 <div id="header" align="center">
-  <img src="https://i.giphy.com/WFZvB7VIXBgiz3oDXE.gif" width="100"/>
+  <img src="https://i.giphy.com/WFZvB7VIXBgiz3oDXE.gif" width="200"/>
 </div>
 
 <div id="badges">
-<a href="https://www.linkedin.com/in/tonelloalan/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-    <a href="https://www.instagram.com/alntnll/"><img src="https://img.shields.io/badge/Instagram-purple?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/tonelloalan/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat"></a>
+    <a href="https://www.instagram.com/alntnll/"><img src="https://img.shields.io/badge/Instagram-purple?logo=linkedin&logoColor=white&style=flat"></a>
 
 </div>
 </html>
 
 
-<img src="https://komarev.com/ghpvc/?username=tonelloalan&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=tonelloalan&style=flat&color=blue" alt=""/>
 
 </div>
 
