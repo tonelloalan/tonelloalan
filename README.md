@@ -17,15 +17,17 @@
 
 ---
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" width="600"/>
+  <img src="iamalanbanner.jpg" width="800"/>
 </div>
 
 ### 👨‍💻 About Me :
-Greetings! 👋 I'm on a thrilling journey transitioning from project coordinator to a passionate web developer. 🚀 Combining my love for technology and design with proven organizational and problem-solving skills, I'm ready to dive into the dynamic world of web development.
+Greetings! 👋 Born and raised in Brazil, I've been living in Germany for almost a decade 🤯 Now I am emabarking on an exciting journey transitioning from my previous role of Project Coordinator to Web Developer. 🚀 Combining my love for technology and design with my acquired organizational and problem-solving skills, I'm ready to dive into the dynamic world of web development.
+
 
 ### 🌐 Tech Enthusiast & Learner
 
-Currently, I am focused on mastering the fundamentals of web development, specifically HTML, CSS, and JavaScript. 🚧 The objective is to utilize my background in project management to construct user-friendly websites and contribute to the continually evolving digital landscape.
+Currently, I am focused on mastering the fundamentals of web development, specifically HTML, CSS, and JavaScript. 🚧 The objective is to use my background in project management to construct user-friendly websites and contribute to the continually evolving digital landscape.
+
 
 ### 🎬 Creative Background
 
@@ -35,9 +37,9 @@ Feel free to reach out and connect. Excited about the possibilities that lie ahe
 
 Happy Coding! 🚁
 
+
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonelloalan)](https://git.io/streak-stats)
-
 
 
 <!--
