@@ -30,7 +30,8 @@ Languages: HTML, CSS, JavaScript
 Frameworks/Libraries: React.js
 Back-end: Node.js
 Tools: Git/GitHub, Database Management (feel free to specify software here if you like)
-Projects: (Link to 1-2 key projects from your portfolio)
+Latest project: <a href="https://patiopal-app.vercel.app">PatioPal</a>, a web application focused on enhancing communication and fostering community within residential buildings.
+
 
 ### 🎬 Creative Background
 
