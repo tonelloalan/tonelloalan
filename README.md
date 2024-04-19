@@ -26,10 +26,14 @@ Brazilian-born, Berlin-based web developer with a background in film studies and
 
 ### 🛠️ Skills & Projects
 
-Languages: HTML, CSS, JavaScript
+Languages: HTML, CSS, JavaScript 
+<br>
 Frameworks/Libraries: React.js
+<br>
 Back-end: Node.js
-Tools: Git/GitHub, Database Management (feel free to specify software here if you like)
+<br>
+Tools: Git/GitHub, Database Management (MongoDB)
+<br>
 Latest project: <a href="https://patiopal-app.vercel.app">PatioPal</a>, a web application focused on enhancing communication and fostering community within residential buildings.
 
 
