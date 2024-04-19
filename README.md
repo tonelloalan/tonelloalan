@@ -21,21 +21,22 @@
 </div>
 
 ### 👨‍💻 About Me :
-Greetings! 👋 Born and raised in Brazil, I've been living in Germany for almost a decade 🤯 Now I am emabarking on an exciting journey transitioning from my previous role of Project Coordinator to Web Developer. 🚀 Combining my love for technology and design with my acquired organizational and problem-solving skills, I'm ready to dive into the dynamic world of web development.
 
+Brazilian-born, Berlin-based web developer with a background in film studies and production. Passionate about creating visually engaging and user-friendly web experiences. Skilled in HTML, CSS, JavaScript, React.js, Node.js, and Git/GitHub. Always learning and excited to collaborate! 🚀
 
-### 🌐 Tech Enthusiast & Learner
+### 🛠️ Skills & Projects
 
-Currently, I am focused on mastering the fundamentals of web development, specifically HTML, CSS, and JavaScript. 🚧 The objective is to use my background in project management to construct user-friendly websites and contribute to the continually evolving digital landscape.
-
+Languages: HTML, CSS, JavaScript
+Frameworks/Libraries: React.js
+Back-end: Node.js
+Tools: Git/GitHub, Database Management (feel free to specify software here if you like)
+Projects: (Link to 1-2 key projects from your portfolio)
 
 ### 🎬 Creative Background
 
-Beyond the code, my creative roots extend into film/video production, graphic design, and photography. 🎨 This diverse skill set allows me to approach projects comprehensively, considering both the technical and aesthetic facets of web development.
+My experience in film/video production, graphic design, and photography informs my approach to web design, ensuring a strong focus on visual storytelling and aesthetics.
 
-Feel free to reach out and connect. Excited about the possibilities that lie ahead! 🚀
-
-Happy Coding! 🚁
+Let's connect and build something great!
 
 
 ### :fire: My Stats :
