@@ -4,13 +4,9 @@
 <img src="https://komarev.com/ghpvc/?username=tonelloalan&style=flat&color=blue" alt=""/>
 </div>
 
-<div align="center">
-  <img src="gh-banner.jpg">
-</div>
-
 ### 👋 Hi, I'm Alan
 
-Process &v Escalation Associate at Voi Technology  
+Process & Escalation Associate at Voi Technology  
 Learning and building in web development
 
 🔗 Latest project: [PatioPal](https://patiopal-app.vercel.app)
